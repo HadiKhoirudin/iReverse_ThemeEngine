@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\bin\Debug\iReverse Theme Engine.exe.config
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\bin\Debug\iReverse Theme Engine.exe
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\bin\Debug\iReverse Theme Engine.pdb
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\obj\Debug\iReverse_Theme_Engine.Main.resources
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\obj\Debug\iReverse_Theme_Engine.Properties.Resources.resources
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\obj\Debug\iReverse_Theme_Engine.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\obj\Debug\iReverse_Theme_Engine.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\obj\Debug\iReverse Theme Engine.exe
+C:\Users\Asus\source\repos\WP-Tool\WP-Tool\obj\Debug\iReverse Theme Engine.pdb

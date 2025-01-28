@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iReverse_Theme_Engine", "Sources\iReverse_Theme_Engine.csproj", "{1334026F-03BF-4BCB-AAEA-00C4CDB7BFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1334026F-03BF-4BCB-AAEA-00C4CDB7BFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1334026F-03BF-4BCB-AAEA-00C4CDB7BFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1334026F-03BF-4BCB-AAEA-00C4CDB7BFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1334026F-03BF-4BCB-AAEA-00C4CDB7BFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C17CC078-5422-47C2-9FD3-239902A1EA19}
+	EndGlobalSection
+EndGlobal
